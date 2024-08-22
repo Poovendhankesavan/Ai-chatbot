@@ -1,7 +1,7 @@
 import streamlit as st
 import google.generativeai as genai
 
-st.title("Welcome to my Ai")
+st.title("My Ai")
 
 genai.configure(api_key="AIzaSyBRaTRzVGuKD6JDeS6Bc6-2h10cgdqsVtc")
 
